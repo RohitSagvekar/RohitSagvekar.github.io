@@ -1,0 +1,115 @@
+.desktop {
+  background-color: #fdf7ea;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.desktop .div {
+  background-color: #fdf7ea;
+  width: 1440px;
+  height: 1024px;
+  position: relative;
+}
+
+.desktop .img {
+  position: absolute;
+  width: 370px;
+  height: 365px;
+  top: 90px;
+  left: 262px;
+}
+
+.desktop .rohit-v-sagvekar {
+  position: absolute;
+  width: 514px;
+  height: 58px;
+  top: 211px;
+  left: 658px;
+}
+
+.desktop .navbar {
+  display: flex;
+  width: 526px;
+  height: 63px;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 8px 0px;
+  position: absolute;
+  top: 272px;
+  left: 652px;
+}
+
+.desktop .text-wrapper {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Varela Round", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0.48px;
+  line-height: normal;
+}
+
+.desktop .welcome-to-my {
+  position: absolute;
+  width: 916px;
+  top: 489px;
+  left: 265px;
+  font-family: "Varela Round", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 24px;
+  text-align: justify;
+  letter-spacing: 0.48px;
+  line-height: normal;
+}
+
+.desktop .span {
+  font-family: "Varela Round", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 24px;
+  letter-spacing: 0.48px;
+}
+
+.desktop .text-wrapper-2 {
+  text-decoration: underline;
+}
+
+.desktop .frame {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 69px;
+  position: absolute;
+  top: 919px;
+  left: 462px;
+}
+
+.desktop .social-icons {
+  position: relative;
+  width: 48px;
+  height: 48px;
+}
+
+.desktop .social-icons-2 {
+  position: relative;
+  width: 48px;
+  height: 47px;
+}
+
+.desktop .academic-email {
+  position: absolute;
+  top: 820px;
+  left: 474px;
+  font-family: "Varela Round", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0.48px;
+  line-height: normal;
+}
